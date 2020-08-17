@@ -1,1 +1,1 @@
-My First STreamlit app
+My First Streamlit app
