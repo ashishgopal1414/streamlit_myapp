@@ -1,0 +1,5 @@
+In Bash Console:
+	> pip3.7 install --user streamlit
+	> pip3.7 install --user missingno
+	> pip3.7 install --upgrade protobuf
+

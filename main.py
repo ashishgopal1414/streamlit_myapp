@@ -201,7 +201,7 @@ def main():
     # session = SessionState.get(run_id=0)
 
     st.title("Complete Data Science Application")
-    st.text("By Ashish Gopal")
+    #st.text("By Ashish Gopal")
 
     activities_outer = ["Data Ingestion", "Others", "About"]
     choice_1_outer = st.sidebar.radio("Choose your Step:", activities_outer)
